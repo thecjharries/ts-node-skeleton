@@ -1,4 +1,6 @@
-# `node-skeleton`
+# `ts-node-skeleton`
+
+All of this has been copied over from `node-skeleton` and most of it doesn't work right now. This is a WIP.
 
 [](start)
 ## Build
