@@ -2,6 +2,8 @@
 
 All of this has been copied over from `node-skeleton` and most of it doesn't work right now. This is a WIP.
 
+You probably shouldn't use this.
+
 [](start)
 ## Build
 
